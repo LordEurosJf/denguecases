@@ -43,6 +43,14 @@ Isso evidencia a necessidade de olhar para os dados além do número absoluto.
 
 📷 Capturas do Painel
 
+Abaixo segue algumas capturas da visualização de dados
+
+
+
+![Exemplo de visualização de dados](exemplo1.png)
+
+![Descrição da imagem](exemplo2.png)
+
 
 
 ⚠️ Aviso
